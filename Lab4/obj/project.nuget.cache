@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNiRN3DiMLw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lesya Pevna\\Downloads\\OOP-Lab-main\\OOP-Lab-main\\Lab4_Json\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lesya Pevna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Lesya Pevna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Lesya Pevna\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.36\\microsoft.netcore.app.host.win-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Lesya Pevna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
